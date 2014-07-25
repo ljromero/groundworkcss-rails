@@ -22,7 +22,7 @@ Gem::Specification.new do |gw|
   gw.add_dependency "colorize"
   gw.add_dependency "sass-rails", [">= 3.2.3"]
   gw.add_dependency "coffee-rails", [">= 3.2.1"]
-  gw.add_dependency "compass-rails", ["~> 1"]
+  gw.add_dependency "compass-rails", [">= 1"]
   gw.add_dependency "autoprefixer-rails"
   gw.add_dependency "jquery-rails"
   gw.add_development_dependency "rake"
